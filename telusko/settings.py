@@ -25,7 +25,7 @@ SECRET_KEY = 'b8lxfabkx!l5^4==fld1=j2#aqwz)x*2er*4lkvjf=q1+8kns2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['travellodjango.herokuapp.com']
 
 
 # Application definition
